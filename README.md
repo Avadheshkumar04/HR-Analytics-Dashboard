@@ -61,6 +61,7 @@ The average age of employees is 37.
 The majority of employees are male (60%).
 The company has a high job satisfaction rating of 3.
 The work-life balance is high in the Human Resources and Sales departments.
+
 Key findings:
 
 Attrition is a significant concern, particularly in Research & Development and Sales departments.
